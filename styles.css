@@ -1,0 +1,194 @@
+.menu {
+
+    text-align: center;
+}
+
+body {
+    padding: 5px;
+    background-color: #00001a;
+    display: flex;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.item {
+    margin: 10px;
+    border: 1px black solid;
+    background-color: #F0F8FF;
+    width: 250px;
+    height: 35px;
+
+    text-align: center;
+}
+
+.item:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.pfp {
+    margin: 10px;
+    padding: 1px;
+    border: 2px black solid;
+    background-color: #F0F8FF;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.pics {
+    margin: 10px;
+    padding: 1px;
+    border: 1px black solid;
+    background-color: #F0F8FF;
+    height: 650px;
+    width: 250px;
+}
+
+.pic {
+    margin: 24px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 1px;
+
+    background-color: #F0F8FF;
+    height: 200px;
+    width: 200px;
+}
+
+.main {
+    Margin: 10px;
+    padding: 1px;
+}
+
+.FF {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 312px;
+    background-color: #FFFAF0;
+
+}
+
+.FF:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+
+}
+
+.Hobbs {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 312px;
+    background-color: #FFFAF0;
+
+}
+
+.Hobbs:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.main1 {
+    Margin: 10px;
+    padding: 1px;
+}
+
+.FF1 {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 627px;
+    background-color: #FFFAF0;
+}
+
+.Hobbs1 {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 627px;
+    background-color: #FFFAF0;
+
+}
+
+.FF1:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.Hobbs1:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.g {
+    height: 200px;
+    width: 200px;
+}
+
+.b {
+    height: 200px;
+    width: 200px;
+}
+
+.r {
+    height: 200px;
+    width: 200px;
+}
+
+.h {
+    padding: 0px;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.bi {
+    height: 200px;
+    width: 200px;
+}
+
+.bi:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.g:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.b:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.r:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 2px 2px 4px blue;
+}
+
+.mom {
+
+    padding: 0px;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
